@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Tối nay tớ qua đón cậu đi chơi nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/people/Nguy%E1%BB%85n-Xu%C3%A2n-Thu/100009245707350';
+                    window.location = 'https://www.facebook.com/LazyDragon0';
                   }
             })
         }
